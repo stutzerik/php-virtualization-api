@@ -1,2 +1,2 @@
 # php-virtualization-api
-PhP virtualization class for manage KVM &amp; OpenVZ machines
+PhP virtualization class for manage KVM machines
