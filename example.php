@@ -32,7 +32,7 @@ $libvirt->rebootVM($name);
 //For example, page visitor/user start VM, when click to the button
 if(isset($_POST['btn-start']))
 {
-   $libvirt->stopVM($name);
+   $libvirt->startVM($name);
 }
 
 //It's easy to manage VMs via PhP, HTML & Bash
